@@ -3,14 +3,22 @@ This is a simple Machine Learning desktop application built using Python. It pre
 
 ## Features
  Predict salary based on experience
+ <br>
  Simple and clean desktop GUI
+ <br>
  Built using Linear Regression model
+ <br>
  Real-time predictions
+ <br>
  Beginner-friendly ML project
 
 ## Technologies Used
  Python
+ <br>
  Tkinter (GUI)
+ <br>
  Pandas
+ <br>
  NumPy
+ <br>
  Scikit-learn (Linear Regression)
